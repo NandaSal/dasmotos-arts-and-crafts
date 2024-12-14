@@ -1,0 +1,45 @@
+.page {
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.header {
+  background-image: url(/resources/images/pattern.jpeg);
+  width: 100%;
+}
+
+.header__title {
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+}
+
+.main__brushes--title, 
+.main__frames--title, 
+.main__paint--title {
+  font-size: 32px;
+  color: white;
+}
+
+.main__brushes--title {
+  background-color: mediumspringgreen;
+}
+
+.main__brushes--p, 
+.main__frames--p, 
+.main__paint--p {
+  font-weight: normal;
+}
+
+.span {
+  font-weight: bold;
+  color: blue;
+}
+
+.main__frames--title {
+  background-color: lightcoral;
+}
+
+.main__paint--title {
+  background-color: skyblue;
+}
